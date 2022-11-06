@@ -1,4 +1,4 @@
-package br.com.dio.collection.map;
+package one.dio.map;
 
 /*Dadas as seguintes informações sobre meus livros favoritos e seus autores,
 crie um dicionário e ordene este dicionário:

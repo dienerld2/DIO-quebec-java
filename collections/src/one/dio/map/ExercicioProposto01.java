@@ -1,4 +1,4 @@
-package br.com.dio.collection.map;
+package one.dio.map;
 
 import java.util.*;
 
@@ -74,8 +74,8 @@ public class ExercicioProposto01 {
          * for(Map.Entry<String, Integer> entry : populaçãoEstadosNE.entrySet()) {
          * soma2 += entry.getValue();
          * }
-         * 
-         * 
+         *
+         *
          */
 
         System.out.println(
