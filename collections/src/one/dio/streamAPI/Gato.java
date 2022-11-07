@@ -1,3 +1,5 @@
+package one.dio.streamAPI;
+
 public class Gato {
     private String nome;
     private int idade;
